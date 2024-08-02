@@ -1,33 +1,33 @@
 [
     {
-        "id": 1,
-        "imgsrc":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fdonadona.com%2Fpizzeria%2F102-pizza-jamon-y-queso.html&psig=AOvVaw18FiBssAaV55ZoRwJsYvT8&ust=1722645456652000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjz9amJ1YcDFQAAAAAdAAAAABAJ",
+        "id":1,
         "producto": "Pizza",
-        "ingrediente":"jamon",
-        "precio":"$15"
+        "descripcion":"jamon,queso mozzarella, salsa de tomate.",
+        "precio":"$15",
+        "imgsrc":"https://www.novachef.es/media/images/pizza-jamon-queso.jpg"
     },{
-        "id": 2,
-        "images":"https://thumbs.dreamstime.com/b/pizza-pepperoni-es-una-de-reci%C3%A9n-hecha-con-salchichas-y-queso-costra-poco-saludable-pero-deliciosa-popular-variedad-pizzas-273757237.jpg",
+        "id":2,
         "producto": "Pizza",
-        "ingrediente":"pepperoni",
-        "precio":"$16"
+        "descripcion":"pepperoni",
+        "precio":"$16",
+        "images":"https://thumbs.dreamstime.com/b/pizza-pepperoni-es-una-de-reci%C3%A9n-hecha-con-salchichas-y-queso-costra-poco-saludable-pero-deliciosa-popular-variedad-pizzas-273757237.jpg"
     },{
-        "id": 3,
-        "images":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFDDKfyQa-a1xyGI65XnHTdGSBUsOJMMgv9A&s",
+        "id":3,
         "producto": "Pizza",
-        "ingrediente":"maiz",
-        "precio":"$10"
+        "descripcion":"maiz,queso mozzarella, salsa de tomate.",
+        "precio":"$10",
+        "images":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFDDKfyQa-a1xyGI65XnHTdGSBUsOJMMgv9A&s"
     },{
-        "id": 4,
-        "images":"https://images.aws.nestle.recipes/resized/2020_04_29T15_07_17_mrs_ImageRecipes_146141lrg_1080_850.jpg",
+        "id":4,
         "producto": "Pizza",
-        "ingrediente":"vegetales",
-        "precio":"$15"
+        "descripcion":"Pepperoni, queso mozzarella, salsa de tomate.",
+        "precio":"$15",
+        "images":"https://images.aws.nestle.recipes/resized/2020_04_29T15_07_17_mrs_ImageRecipes_146141lrg_1080_850.jpg"
     },{
-        "id": 5,
-        "images":"https://media.alamesacuba.com/media/delivery/Pizza_mixta_TodoPizzas_A_Domicilio_alamesacuba.com.jpeg",
+        "id":5,
         "producto": "Pizza",
-        "ingrediente":"mixta",
-        "precio":"$17"
+        "descripcion":"mixta,queso mozzarella, vegetales fresco ,salsa de tomate.",
+        "precio":"$17",
+        "images":"https://media.alamesacuba.com/media/delivery/Pizza_mixta_TodoPizzas_A_Domicilio_alamesacuba.com.jpeg"
     }
 ]
