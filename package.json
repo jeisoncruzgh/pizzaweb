@@ -1,0 +1,12 @@
+{
+  "name": "pizeria1",
+  "version": "1.0.0",
+  "description": "app para una pizeria ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "jeison",
+  "license": "ISC"
+}
